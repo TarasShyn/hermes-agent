@@ -1,0 +1,16 @@
+contributors/emails/taras.shinkarenko@gmail.com
+  h_d76ceef5a88fa0 1
+plugin-catalog/flowsery.yaml
+  h_d76ceef5a88fa0 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6507a8278c95bfbb406157bd103150918efed412",
+  "prompts": {},
+  "humans": {
+    "h_d76ceef5a88fa0": {
+      "author": "Taras Shynkarenko <taras.shinkarenko@gmail.com>"
+    }
+  }
+}
