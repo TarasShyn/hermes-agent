@@ -1,0 +1,14 @@
+plugin-catalog/redreplier.yaml
+  h_d76ceef5a88fa0 4-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ae0252b41cc00cff75566339d6c3c6f5177f8030",
+  "prompts": {},
+  "humans": {
+    "h_d76ceef5a88fa0": {
+      "author": "Taras Shynkarenko <taras.shinkarenko@gmail.com>"
+    }
+  }
+}
