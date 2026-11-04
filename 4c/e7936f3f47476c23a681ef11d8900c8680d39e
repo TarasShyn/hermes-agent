@@ -1,0 +1,21 @@
+contributors/emails/taras.shinkarenko@gmail.com
+  s_0ec9ecc2ce00ee::t_2c859b8d89f38a 1
+plugin-catalog/redreplier.yaml
+  s_0ec9ecc2ce00ee::t_8eae58e9243e16 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4ce7936f3f47476c23a681ef11d8900c8680d39e",
+  "prompts": {},
+  "sessions": {
+    "s_0ec9ecc2ce00ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "32b51329-ad43-4eb3-a9b7-8330ef096d85",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Taras Shynkarenko <taras.shinkarenko@gmail.com>"
+    }
+  }
+}
