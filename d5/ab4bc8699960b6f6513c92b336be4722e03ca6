@@ -1,0 +1,19 @@
+plugin-catalog/adaptlypost.yaml
+  s_0ec9ecc2ce00ee::t_32cb017339fa8c 1-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d5ab4bc8699960b6f6513c92b336be4722e03ca6",
+  "prompts": {},
+  "sessions": {
+    "s_0ec9ecc2ce00ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "32b51329-ad43-4eb3-a9b7-8330ef096d85",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Taras Shynkarenko <taras.shinkarenko@gmail.com>"
+    }
+  }
+}
