@@ -1,0 +1,14 @@
+plugin-catalog/flowsery.yaml
+  h_d76ceef5a88fa0 1-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a1813ace78643107050488741a035df28c1a315a",
+  "prompts": {},
+  "humans": {
+    "h_d76ceef5a88fa0": {
+      "author": "Taras Shynkarenko <taras.shinkarenko@gmail.com>"
+    }
+  }
+}
