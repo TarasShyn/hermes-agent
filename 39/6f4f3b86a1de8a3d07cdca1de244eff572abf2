@@ -1,0 +1,14 @@
+plugin-catalog/adaptlypost.yaml
+  h_d76ceef5a88fa0 4-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "396f4f3b86a1de8a3d07cdca1de244eff572abf2",
+  "prompts": {},
+  "humans": {
+    "h_d76ceef5a88fa0": {
+      "author": "Taras Shynkarenko <taras.shinkarenko@gmail.com>"
+    }
+  }
+}
