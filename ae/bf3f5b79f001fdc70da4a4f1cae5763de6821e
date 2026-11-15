@@ -1,0 +1,19 @@
+plugin-catalog/redreplier.yaml
+  s_090e595bff8e94::t_3f80f491f971ab 4-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "aebf3f5b79f001fdc70da4a4f1cae5763de6821e",
+  "prompts": {},
+  "sessions": {
+    "s_090e595bff8e94": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "054a1bee-e925-48f1-aabb-c88c834a8d54",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Taras Shynkarenko <taras.shinkarenko@gmail.com>"
+    }
+  }
+}
